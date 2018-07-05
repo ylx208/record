@@ -1,2 +1,2 @@
 # record
-record my life
+record
